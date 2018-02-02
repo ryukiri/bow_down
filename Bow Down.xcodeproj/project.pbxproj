@@ -12,6 +12,9 @@
 		D902B0542023DAE600C95EF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D902B0522023DAE600C95EF4 /* Main.storyboard */; };
 		D902B0562023DAE600C95EF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D902B0552023DAE600C95EF4 /* Assets.xcassets */; };
 		D902B0592023DAE600C95EF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D902B0572023DAE600C95EF4 /* LaunchScreen.storyboard */; };
+		D902B0642023DF3100C95EF4 /* w.png in Resources */ = {isa = PBXBuildFile; fileRef = D902B0622023DF3100C95EF4 /* w.png */; };
+		D902B0652023DF3100C95EF4 /* boundless.png in Resources */ = {isa = PBXBuildFile; fileRef = D902B0632023DF3100C95EF4 /* boundless.png */; };
+		D902B085202416F100C95EF4 /* bow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D902B084202416F100C95EF4 /* bow.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		D902B0552023DAE600C95EF4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D902B0582023DAE600C95EF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D902B05A2023DAE600C95EF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D902B0622023DF3100C95EF4 /* w.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = w.png; sourceTree = "<group>"; };
+		D902B0632023DF3100C95EF4 /* boundless.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boundless.png; sourceTree = "<group>"; };
+		D902B084202416F100C95EF4 /* bow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bow.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		D902B04D2023DAE600C95EF4 /* Bow Down */ = {
 			isa = PBXGroup;
 			children = (
+				D902B084202416F100C95EF4 /* bow.mp3 */,
+				D902B0632023DF3100C95EF4 /* boundless.png */,
+				D902B0622023DF3100C95EF4 /* w.png */,
 				D902B04E2023DAE600C95EF4 /* AppDelegate.swift */,
 				D902B0502023DAE600C95EF4 /* ViewController.swift */,
 				D902B0522023DAE600C95EF4 /* Main.storyboard */,
@@ -125,7 +134,10 @@
 			files = (
 				D902B0592023DAE600C95EF4 /* LaunchScreen.storyboard in Resources */,
 				D902B0562023DAE600C95EF4 /* Assets.xcassets in Resources */,
+				D902B0652023DF3100C95EF4 /* boundless.png in Resources */,
 				D902B0542023DAE600C95EF4 /* Main.storyboard in Resources */,
+				D902B085202416F100C95EF4 /* bow.mp3 in Resources */,
+				D902B0642023DF3100C95EF4 /* w.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
